@@ -1,4 +1,4 @@
-i[universo](https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS)
+i[universo](https://giphy.com/gifs/stars-U3qYN8S0j3bpK)
 
 # jam studios 🧶
 
