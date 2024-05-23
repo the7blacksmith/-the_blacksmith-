@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="welcome to jam studios!!👋🏿" width="500"/>
+<iframe src="https://giphy.com/embed/xT9IgusfDcqpPFzjdS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS">via GIPHY</a></p>
+
 # jam studios 🧶
 
 ### I chewed on it slowly. 
