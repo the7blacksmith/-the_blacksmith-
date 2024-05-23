@@ -1,6 +1,6 @@
-# I chewed on it slowly. 
+<span style="color:blue"># This is jam studios</span>
 
-#### It was one of those ideas that slowly take over you. I wasn't sure if was after my five years living in Dublin, working in an international technology company with many IT workers (Ding), or if it was later.
+### I chewed on it slowly. #### It was one of those ideas that slowly take over you. I wasn't sure if was after my five years living in Dublin, working in an international technology company with many IT workers (Ding), or if it was later.
 
 #### The fact is that the idea had won the battle.
 
