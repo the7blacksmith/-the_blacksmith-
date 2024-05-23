@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="welcome to jam studios!!👋🏿" width="300"/>
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="welcome to jam studios!!👋🏿" width="500"/>
 # jam studios 🧶
 
 ### I chewed on it slowly. 
