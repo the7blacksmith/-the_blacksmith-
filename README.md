@@ -1,4 +1,4 @@
-![Ejemplo de GIF](https://media.giphy.com/media/xT9IgusfDcqpPFzjdS/giphy.gif)
+
 
 
 # jam studios 🧶
