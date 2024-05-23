@@ -1,14 +1,14 @@
-
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="welcome to jam studios!!👋🏿" width="300"/>
 # jam studios 🧶
 
 ### I chewed on it slowly. 
-#### It was one of those ideas that slowly take over you. I wasn't sure if was after my five years living in Dublin, working in an international technology company with many IT workers (Ding), or if it was later.
+#### It was one of those ideas that slowly take over you. I wasn't sure if it was after my five years living in Dublin, working in an international technology company with many IT workers (Ding), or if it was later.
 
 #### The fact is that the idea had won the battle.
 
 #### So I asked several people. They all agreed. Although there was variety in their responses, once several experienced people told me the same thing, I had no doubts. I bought a book, enrolled in a school, and, taking advantage of my situation, I began to study every day. I went from not understanding anything, from not knowing what I was learning it for, to seeing the "beyond."
 
-#### And I became passionate. That mix of logic and creativity... It felt like I was learning music or writing. An art in which I immersed myself. I spent every minute of my free time learning, experimenting, like a child who has just received a new gift and is trying to squeeze every last drop of fun out of it.
+#### And I became passionate. That mix of logic and creativity... It felt like I was learning music or writing. An art in which I immersed myself. I spent every minute of my free time learning, and experimenting, like a child who has just received a new gift and is trying to squeeze every last drop of fun out of it.
 
 ### That's how I felt.
 
@@ -17,7 +17,7 @@
 
 #### Now, more than a year and a half after starting this new path, I have not only passed certifications like PCAP, but I have also learned SQL, the basics of a framework like Flask, and, in subsequent courses, I have created APIs and web applications.
 
-#### I have a strong desire to continue learning, to improve, and to work on projects, which is why I have found GitHub to be the perfect platform to share my projects and ideas and to continue experimenting in this new universe into which I have happily fallen.
+#### I have a strong desire to continue learning, improving, and working on projects, which is why I have found GitHub to be the perfect platform to share my projects and ideas and to continue experimenting in this new universe into which I have happily fallen.
 
 
 
@@ -50,5 +50,3 @@
 #### Projects
 
 [![lap insights](https://img.shields.io/badge/lap-insights-pink)](https://lapinsights.com/)
-
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDEuMjk2ODg2NDQ0MDkxOCIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDE0MS4yOTY4ODY0NDQwOTE4IDM1Ij48cmVjdCB3aWR0aD0iNDguNjcxODc4ODE0Njk3MjY2IiBoZWlnaHQ9IjM1IiBmaWxsPSIjZmZmZmZmIi8+PHJlY3QgeD0iNDguNjcxODc4ODE0Njk3MjY2IiB3aWR0aD0iOTIuNjI1MDA3NjI5Mzk0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiNlOTFhZDUiLz48dGV4dCB4PSIyNC4zMzU5Mzk0MDczNDg2MzMiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iIzAwMDAwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPkxBUDwvdGV4dD48dGV4dCB4PSI5NC45ODQzODI2MjkzOTQ1MyIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9IjIiPklOU0lHSFRTPC90ZXh0Pjwvc3ZnPg==)](https://forthebadge.com)
