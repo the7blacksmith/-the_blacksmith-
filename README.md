@@ -1,3 +1,5 @@
+![Matrix GIF](https://media.giphy.com/media/zhJR6HbK4fthC/giphy.gif)
+
 # jam studios 🧶
 
 ### I chewed on it slowly. 
