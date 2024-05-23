@@ -1,4 +1,4 @@
-i[universo](https://giphy.com/gifs/stars-U3qYN8S0j3bpK)
+i[universo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI0MWhzbDJpamxubzhwMmg1dG4wOWl0ejZkaTFvdXNscTFwZGt3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgusfDcqpPFzjdS/giphy.gif)
 
 # jam studios 🧶
 
