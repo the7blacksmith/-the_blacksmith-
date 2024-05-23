@@ -28,7 +28,7 @@
 #### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PCEP](https://img.shields.io/badge/PCEP-Associate-3776AB?style=flat-square&logo=python&logoColor=white)
+![PCEP](https://img.shields.io/badge/PCEP-Certified-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PCAP](https://img.shields.io/badge/PCAP-Certified-3776AB?style=flat-square&logo=python&logoColor=white)
 
 #### Tools and Platforms
