@@ -1,4 +1,4 @@
-# jam studios ♦️♦️
+# jam studios 🧶
 
 ### I chewed on it slowly. 
 #### It was one of those ideas that slowly take over you. I wasn't sure if was after my five years living in Dublin, working in an international technology company with many IT workers (Ding), or if it was later.
