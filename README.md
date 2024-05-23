@@ -49,4 +49,4 @@
 
 #### Projects
 
-[lap_insights](https://lapinsights.com/)
+[lap insights](https://lapinsights.com/)
