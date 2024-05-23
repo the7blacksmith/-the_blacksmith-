@@ -13,7 +13,7 @@
 ### That's how I felt.
 
 #### The idea I was talking about, the one I slowly chewed on, was learning to program.
-The language that several people recommended to me was Python.
+#### The language that several people recommended to me was Python.
 
 #### Now, more than a year and a half after starting this new path, I have not only passed certifications like PCAP, but I have also learned SQL, the basics of a framework like Flask, and, in subsequent courses, I have created APIs and web applications.
 
