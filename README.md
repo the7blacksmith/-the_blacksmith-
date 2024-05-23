@@ -49,4 +49,4 @@
 
 #### Projects
 
-[lap insights](https://lapinsights.com/)
+[![LAP Insights](https://img.shields.io/badge/LAP-Insights-brightgreen)](https://github.com/tu_usuario/tu_repositorio)
