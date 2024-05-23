@@ -1,4 +1,3 @@
-![Matrix GIF](https://media.giphy.com/media/zhJR6HbK4fthC/giphy.gif)
 
 # jam studios 🧶
 
@@ -20,6 +19,8 @@ The language that several people recommended to me was Python.
 
 #### I have a strong desire to continue learning, to improve, and to work on projects, which is why I have found GitHub to be the perfect platform to share my projects and ideas and to continue experimenting in this new universe into which I have happily fallen.
 
+
+
 ---
 
 ## 💾 Languages and Tools
@@ -27,6 +28,8 @@ The language that several people recommended to me was Python.
 #### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PCEP](https://img.shields.io/badge/PCEP-Associate-3776AB?style=flat-square&logo=python&logoColor=white)
+![PCAP](https://img.shields.io/badge/PCAP-Certified-3776AB?style=flat-square&logo=python&logoColor=white)
 
 #### Tools and Platforms
 
