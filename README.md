@@ -1,4 +1,5 @@
-![universo](https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS)
+![Ejemplo de GIF](https://media.giphy.com/media/xT9IgusfDcqpPFzjdS/giphy.gif)
+
 
 # jam studios 🧶
 
