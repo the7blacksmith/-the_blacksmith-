@@ -49,4 +49,4 @@
 
 #### Projects
 
-[![lap insights](https://img.shields.io/badge/LAP-Insights-pink)](https://lapinsights.com/)
+[![lap insights](https://img.shields.io/badge/lap-insights-pink)](https://lapinsights.com/)
