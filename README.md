@@ -1,8 +1,7 @@
-<span style="color:blue"> 
-# This is jam studios
-</span>
+<span style="color:blue">This is jam studios</span>
 
-### I chewed on it slowly. #### It was one of those ideas that slowly take over you. I wasn't sure if was after my five years living in Dublin, working in an international technology company with many IT workers (Ding), or if it was later.
+### I chewed on it slowly. 
+#### It was one of those ideas that slowly take over you. I wasn't sure if was after my five years living in Dublin, working in an international technology company with many IT workers (Ding), or if it was later.
 
 #### The fact is that the idea had won the battle.
 
@@ -10,7 +9,7 @@
 
 #### And I became passionate. That mix of logic and creativity... It felt like I was learning music or writing. An art in which I immersed myself. I spent every minute of my free time learning, experimenting, like a child who has just received a new gift and is trying to squeeze every last drop of fun out of it.
 
-#### That's how I felt.
+### That's how I felt.
 
 #### The idea I was talking about, the one I slowly chewed on, was learning to program.
 The language that several people recommended to me was Python.
