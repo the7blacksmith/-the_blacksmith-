@@ -12,7 +12,7 @@
 
 ## And I became passionate. 
 
-#### That mix of logic and creativity... It felt like I was learning music or writing. An art in which I immersed myself. I spent every minute of my free time learning, and experimenting, like a child who has just received a new gift and is trying to squeeze every last drop of fun out of it.
+#### That mix of logic and creativity... It felt like I was learning music or writing. An art in which I immersed myself spending every minute of my free time learning, and experimenting, like a child who has just received a new gift and is trying to squeeze every last drop of fun out of it.
 
 ### That's how I felt.
 
