@@ -1,7 +1,7 @@
 
 
 
-# [the blacksmith] 🧶
+# [the blacksmith] 🗡️🔨
 
 ### I chewed on it slowly. 
 #### It was one of those ideas that gradually take over you. I wasn't sure if it was after my five years living in Dublin, working in an international technology company with many IT workers (Ding), or if it was later.
