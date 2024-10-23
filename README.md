@@ -3,30 +3,6 @@
 
 # the blacksmith 🗡️🔨
 
-### {The idea struck the anvil with force, and the blacksmith began to take shape}. 
-
-#### It was one of those ideas that gradually take over you. I wasn't sure if it was after my five years living in Dublin, working in an international technology company with many IT workers (Ding), or if it was later.
-
-#### The fact is that the idea had won the battle.
-
-#### So I asked several people and they all agreed. Although there was variety in their responses, once several experienced people told me the same thing, I had no doubts. I bought a book, enrolled in a school, and, taking advantage of my situation, I began to study every day. I went from not understanding anything, from not knowing what I was learning it for, to seeing the "beyond."
-
-## [And I became passionate]. 
-
-#### That mix of logic and creativity... It felt like I was learning music or writing... or forging. An art in which I immersed myself spending every minute of my free time learning, and experimenting, like a child who has just received a new gift and is trying to squeeze every last drop of fun out of it.
-
-### (That's how I felt).
-
-#### The idea I was talking about, was learning to program.
-
-#### The language that several people recommended to me was Python.
-
-#### Now, more than a year and a half after starting this new path, I have not only passed certifications like PCAP, but I have also learned SQL, the basics of a framework like Flask, and, in subsequent courses, I have created APIs and web applications.
-
-#### I have a strong desire to continue learning, improving, and working on projects, which is why I have found GitHub to be the perfect platform to share my projects and ideas and to continue experimenting in this new universe into which I have happily fallen.
-
-
-
 ---
 
 ## 💾 Languages and Tools
